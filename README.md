@@ -1,10 +1,5 @@
 ### Why hello there! 👋
 
-<!--
-**KevinKaras/KevinKaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my skills in Python / JavaScript / React|Redux / Flask / SQLAlchemy!
 - 🌱 I’m currently solidifying my ability to create a full-stack application in competitive time frames
 - 👯 I’m looking to collaborate with anyone who would like to build full stack applications from scratch
