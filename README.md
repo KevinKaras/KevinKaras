@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with finding a Software Engineering job!
 - 💬 Ask me about anything code / programming related, and/or competitive video gaming
 - 📫 How to reach me: kevinkaras2@gmail.com
-- ⚡ Fun fact: Used to be the Global Region #1 Call of Duty Modern Warfare Frag Leader for 5 months straight, and #1 Frag Leader in Apex Legends for 6 months.
+- ⚡ Fun fact: I put in 4500 hours into competitive gaming before I turned 19
 
