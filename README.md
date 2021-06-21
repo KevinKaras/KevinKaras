@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with finding a Software Engineering job!
 - 💬 Ask me about anything code / programming related, and/or competitive video gaming
 - 📫 How to reach me: kevinkaras2@gmail.com
-- ⚡ Fun fact: I put in 4500 hours into competitive gaming before I turned 19
+- ⚡ Fun fact: I put in 6500 hours into competitive gaming before I turned 19
 
