@@ -1,6 +1,6 @@
 ### Why hello there! 👋
 
-- 🤓 I'm trying to code every day at least 8 hours on various projects / DSA problems, any recommendations to work on are appreciated!
+- 🤓 I'm trying to code every day at least 8 hours on various projects / DSA, any recommendations to work on are appreciated!
 - 🔭 I’m currently working on improving my skills in Python / JavaScript / React|Redux / Flask / SQLAlchemy / C# / C++!
 - 🌱 I’m currently solidifying my ability to create a full-stack application in competitive time frames
 - 👯 I’m looking to collaborate with anyone who would like to build full stack applications from scratch
