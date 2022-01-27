@@ -8,3 +8,5 @@
 - ⚡ Fun fact: I put in 6500 hours into competitive gaming before I turned 19
 - 📫 How to reach me: kevinkaras2@gmail.com
 
+- "In the beginning, the Grand Canyon wasn't formed by powerful water, nor precise water, but by water that never stopped."
+
