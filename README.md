@@ -10,3 +10,4 @@
 
 - "In the beginning, the Grand Canyon wasn't formed by powerful water, nor precise water, but by water that never stopped."
 
+- I'm currently taking a couple weeks off of coding to catch up with life tasks such as moving into my new home. Will resume shortly!
