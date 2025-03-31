@@ -1,6 +1,6 @@
 ### Why hello there! 👋
 
-- Software Engineer for JPMC
+- Software Engineer
 - 🔭 I’m currently working on improving my skills in JavaScript/Python/React/Redux/Flask/SQLAlchemy/MySql/PHP/Node/C~!
 - 🤓 I'm trying to code every day at least 8-10 hours on various projects / DSA! 
 - 🌱 I’m currently solidifying my ability to create a full-stack application in competitive time frames
