@@ -1,6 +1,7 @@
 ### Why hello there! 👋
 
-- Software Engineer
+- Software Engineer for JPMC
+- Startup founder as of March 10th 2025
 - 🔭 I’m currently working on improving my skills in JavaScript/Python/React/Redux/Flask/SQLAlchemy/MySql/PHP/Node/C~!
 - 🤓 I'm trying to code every day at least 8-10 hours on various projects / DSA! 
 - 🌱 I’m currently solidifying my ability to create a full-stack application in competitive time frames
